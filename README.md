@@ -60,18 +60,15 @@ Run `npm run build` to build your dist folder.
 Run `npm run deploy` after you switch to your gh-pages branch to deploy your server.
 ```
 Packages installed:
-- [x] Axios
+
 - [x] Bootstrap
-- [x] Express
-- [x] Dotenv
 - [x] gh-pages
 - [x] React
 - [x] React-bootstrap
 - [x] React-dom
 - [x] React-router-bootstrap
 - [x] React-router-dom
-- [x] React-typewriter-effect
-- [x] Web-vitals
+
 
 ## Links
 
