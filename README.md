@@ -71,9 +71,6 @@ Check MongoDB database to see if there's an ID for farleyquinn.
 After cloning down this repository, please run `npm install`.
 ```
 
-```
-Run `npm run build` to build your dist folder.
-```
 
 ```
 Run `npm run deploy` after you switch to your gh-pages branch to deploy your server.
@@ -81,7 +78,6 @@ Run `npm run deploy` after you switch to your gh-pages branch to deploy your ser
 Packages installed:
 
 - [x] Bootstrap
-- [x] gh-pages
 - [x] React
 - [x] React-bootstrap
 - [x] React-dom
