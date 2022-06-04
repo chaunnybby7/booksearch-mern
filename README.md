@@ -22,18 +22,37 @@
    
 ## Description
 ```
-This is another updated portfolio, focusing on the frontend of Web Development using React. 
+This is a fully functioning Google Books API search engine built with a RESTful API, 
+and refactor it to be a GraphQL API built with Apollo Server. 
+The app was built using the MERN stack with a React front end, MongoDB database, 
+and Node.js/Express.js server and API. 
+It's already set up to allow users to save book searches to the back end. 
 
-For this particular portfolio, I've used HTML, React and Javascript. 
   
 ```
 ## Demo
 
+After signing up an account, user stays logged in. 
+User can search for a book and save it. 
+
+
+
+https://user-images.githubusercontent.com/97390473/171976641-85710162-4fe4-44c7-a769-1a9b5d4c1323.mp4
+
+
+
+GraphQL -> Check if data is pushed correctly to the database.
+Eg. Username (farleyquinn) was created.
+
+
+<img width="1614" alt="sandbox" src="https://user-images.githubusercontent.com/97390473/171976723-694987ed-25ab-46a6-b885-3749006e7db2.png">
 
 
 
 
+Check MongoDB database to see if there's an ID for farleyquinn. 
 
+<img width="1426" alt="mongodb1" src="https://user-images.githubusercontent.com/97390473/171976714-ca877c21-3c74-4c8a-816c-f16976269f5c.png">
 
 
 
@@ -72,7 +91,7 @@ Packages installed:
 
 ## Links
 
-[Deployed Link]()
+[Deployed Link](https://sheltered-ridge-41319.herokuapp.com/)
 
 
 [Github React Portfolio](https://github.com/chaunnybby7/booksearch-mern)
